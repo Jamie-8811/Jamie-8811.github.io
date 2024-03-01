@@ -724,3 +724,15 @@ footer .copyright {
 footer .credits {
   margin-bottom: 0;
 }
+
+
+/*------/ Socials /------*/
+.socials {
+  color:white;
+}
+
+.socials ul li {
+  display: inline-block;
+  border-radius: 5px;
+  margin:20px;
+}
